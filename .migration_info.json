@@ -1,0 +1,33 @@
+{
+  "migrated_at": "2025-09-19T23:27:39.889944",
+  "original_path": "/Users/danielborrowman/Documents/GitHub/release64",
+  "analysis": {
+    "name": "release64",
+    "path": "/Users/danielborrowman/Documents/GitHub/release64",
+    "size_mb": 85.26,
+    "file_count": 1115,
+    "project_types": [],
+    "languages": "set()",
+    "frameworks": "set()",
+    "has_git": false,
+    "git_status": null,
+    "dependencies": [],
+    "cleanup_candidates": [
+      ".DS_Store"
+    ],
+    "cleanup_size_mb": 0.01,
+    "description": "Size: 85.26MB (1115 files)",
+    "priority": "medium",
+    "status": "active",
+    "last_modified": "2025-07-31T20:33:45.166837"
+  },
+  "cleanup_performed": {
+    "project": "release64",
+    "files_removed": [
+      ".DS_Store"
+    ],
+    "dirs_removed": [],
+    "size_freed_mb": 0.01,
+    "errors": []
+  }
+}
